@@ -2,7 +2,7 @@ import random
 import time
 import ascii8x8
 
-# A dictionary of hsv values for some common colors.
+# A dictionary of hsv values for some common colors.ggg
 colors = {"black":(0, 0, 0), "white":(0, 0, 1), "gray":(0, 0, 0.5),
           "red":(0, 1, 1), "blue":(0.66, 1, 1), "yellow":(0.16, 1, 1),
           "purple":(0.85, 1, 0.5), "green":(0.33, 1, 0.5),
